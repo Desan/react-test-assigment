@@ -89,8 +89,4 @@ class UserForm extends Component {
 	}
 }
 
-UserForm.defaultProps = {
-	user: {}
-}
-
 export default UserForm
